@@ -8,6 +8,6 @@ Playing with Llama using [HuggingFace's transformers library](https://huggingfac
 ```bash
 export HUGGINGFACE_HUB_TOKEN=your_access_token
 ```
-4. Run `huggingface.py`, which will download weights (15G of disk space) to `~/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-8B-Instruct`
+4. Run `chat.py`, which will download weights (15G of disk space) to `~/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-8B-Instruct`
 
 Can play with `input_text` and `max_new_tokens` for how long you want the response prompt to be
