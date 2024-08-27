@@ -2,3 +2,5 @@ transformers
 SentencePiece
 torch
 huggingface-hub
+datasets 
+accelerate
