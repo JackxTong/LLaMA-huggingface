@@ -1,0 +1,4 @@
+transformers
+SentencePiece
+torch
+huggingface-hub
